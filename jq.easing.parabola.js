@@ -1,7 +1,7 @@
 /*
  * jQuery Easing v1.0 - https://github.com/hevyweb/jq.easing.parabola
  *
- * This is a jQuery easing which in a form of parabold
+ * jQuery easing in a form of parabola
  *
  * MIT License
  *
@@ -30,11 +30,11 @@
 $.extend($.easing,
     {
         /**
-         * Change data according to the parabolla
+         * Change data according to the parabola formula.
          *
          * @param float timeDelta is time/duration
-         * @param number time milliseconds from the beggining of the animation
-         * @param number initialValue initial parameter value
+         * @param number time milliseconds from the start of the animation
+         * @param number initialValue initial value
          * @param number delta difference between final value and initial value
          * @param number duration time in milliseconds - animation duration
          * @returns number
