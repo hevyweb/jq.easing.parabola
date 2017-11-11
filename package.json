@@ -1,0 +1,32 @@
+{
+  "name": "jquery.easing-parabola",
+  "version": "1.0.0",
+  "description": "jQuery easing in a form of parabola",
+  "main": "jq.easing.parabola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hevyweb/jq.easing.parabola.git"
+  },
+  "dependencies": {
+    "jquery": ">=1.0.0"
+  },
+  "devDependencies": {
+    "qunit": "^2.4.1",
+    "jsdom": "^11.3.0"
+  },
+  "keywords": [
+    "jQuery",
+    "easing",
+    "parabola",
+    "arc"
+  ],
+  "author": "Dmytro Dzyuba <joomsend@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hevyweb/jq.easing.parabola/issues"
+  },
+  "homepage": "https://github.com/hevyweb/jq.easing.parabola#readme"
+}

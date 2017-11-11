@@ -1,0 +1,16 @@
+{
+    "name": "hevyweb/jquery.easing-parabola",
+    "description": "jQuery easing in a form of parabola",
+    "type": "jquery.easing",
+    "require": {
+        "components/jquery": ">=1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmytro Dzyuba",
+            "email": "joomsend@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "jquery.easing-parabola",
+  "description": "jQuery easing in a form of parabola",
+  "main": "jq.easing.parabola.js",
+  "authors": [
+    "Dmytro Dzyuba <joomsend@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jQuery",
+    "easing",
+    "parabole",
+    "arc"
+  ],
+  "homepage": "https://github.com/hevyweb/jq.easing.parabola",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    "node_modules",
+    "vendor",
+    "package-lock.json"
+  ]
+}
