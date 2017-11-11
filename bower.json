@@ -1,5 +1,5 @@
 {
-  "name": "jquery.easing-parabola",
+  "name": "jquery-easing-parabola",
   "description": "jQuery easing in a form of parabola",
   "main": "jq.easing.parabola.js",
   "authors": [
