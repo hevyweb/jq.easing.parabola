@@ -1,7 +1,7 @@
 {
     "name": "hevyweb/jquery-easing-parabola",
     "description": "jQuery easing in a form of parabola",
-    "type": "jquery.easing",
+    "type": "library",
     "require": {
         "components/jquery": ">=1.0"
     },

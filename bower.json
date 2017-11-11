@@ -12,7 +12,7 @@
     "parabole",
     "arc"
   ],
-  "homepage": "https://github.com/hevyweb/jq.easing.parabola",
+  "homepage": "https://github.com/hevyweb/jquery-easing-parabola",
   "ignore": [
     "**/.*",
     ".idea",
